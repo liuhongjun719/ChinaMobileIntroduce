@@ -1,0 +1,15 @@
+PODS:
+  - JazzHands (2.0.8)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - JazzHands
+  - Masonry
+
+SPEC CHECKSUMS:
+  JazzHands: 355dc5c2b6fc38ee460d0ed7836c69539263f477
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 10ab2b6f21c099bd93350db94db350c749321505
+
+COCOAPODS: 1.1.0.beta.2

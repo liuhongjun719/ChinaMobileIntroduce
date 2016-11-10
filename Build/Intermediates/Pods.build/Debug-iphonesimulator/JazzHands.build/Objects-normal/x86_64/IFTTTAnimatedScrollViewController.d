@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTAnimatedScrollViewController.m \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/Target\ Support\ Files/JazzHands/JazzHands-prefix.pch \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTJazzHands.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTAnimator.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTInterpolatable.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTAnimatable.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTFilmstrip.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTEasingFunction.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTViewAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTShapeLayerAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTAnimatedScrollViewController.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTAnimatedPagingScrollViewController.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTScrollViewPageConstraintAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTAlphaAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTMaskAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTCornerRadiusAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTFrameAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTHideAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTBackgroundColorAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTRotationAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTScaleAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTTranslationAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTTransform3DAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTLayerStrokeStartAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTLayerStrokeEndAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTLayerFillColorAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTPathPositionAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTTextColorAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTConstraintConstantAnimation.h \
+  /Users/a123456/Desktop/React/Swift_projects/ChinaMobileIntroduce/Pods/JazzHands/JazzHands/IFTTTConstraintMultiplierAnimation.h
